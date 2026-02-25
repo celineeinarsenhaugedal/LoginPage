@@ -1,0 +1,9 @@
+[
+    {
+        "firstname": "Celine",
+        "lastname": "Einarsen",
+        "email": "cel13012@skole.telemarkfylke.no",
+        "username": "celineeh_08",
+        "password": "scrypt:32768:8:1$58XrcZyN1j0uHqHv$51b7108d2fb05de6a0962cac9b9f9ff072dba2e301af20a373aface6ee8ff5a0a251534727327e56a52075fb2dcd187c29285afd889887f06d7a44ab14de6111"
+    }
+]
